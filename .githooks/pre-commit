@@ -1,0 +1,34 @@
+#!/bin/bash
+
+# echo "Running Tests..."
+
+# cmd="php artisan test"
+
+# $cmd
+
+# if [[ $? -ne 0 ]]; then
+#   echo "error"
+#   exit 1
+# fi
+
+# echo "Running LaraStan..."
+
+# cmd="./vendor/bin/phpstan analyse"
+
+# $cmd
+
+# if [[ $? -ne 0 ]]; then
+#   echo "error"
+#   exit 1
+# fi
+
+# echo "Running Pint..."
+
+# cmd="./vendor/bin/pint"
+
+# $cmd
+
+# if [[ $? -ne 0 ]]; then
+#   echo "error"
+#   exit 1
+# fi
