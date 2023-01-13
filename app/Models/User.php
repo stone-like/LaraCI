@@ -41,7 +41,7 @@ class User extends Authenticatable
         'email_verified_at' => 'datetime',
     ];
 
-    public function add(int $a, int $b): string
+    public function add(int $a, int $b): int
     {
         return 5;
     }
